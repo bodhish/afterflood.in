@@ -4,7 +4,27 @@ description: The crowd sourced data hub for all after flood precautions
 
 # \#AfterFlood
 
-![](.gitbook/assets/afterflood-logo-01.png)
+![](.gitbook/assets/afterflood-logo-0x.jpg)
+
+> A crowd sourced data hub for information regarding all the Do's and don'ts, waste management, personal hygiene and every other aspect which needs to be kept in mind while moving back home after the flood
+
+{% hint style="success" %}
+**Download a copy of Comprehensive Clean-Up Guide PDF**  
+[**doc.afterflood.in**](http://doc.afterflood.in/)
+{% endhint %}
+
+{% hint style="warning" %}
+**Facebook ChatBot:** [**chat.afterflood.in**](http://chat.afterflood.in/)
+{% endhint %}
+
+{% hint style="info" %}
+
+
+**Instructions from Directorate of Kerala Health**
+
+1. [http://dhs.kerala.gov.in/index.php/publichealth.html](http://dhs.kerala.gov.in/index.php/publichealth.html)
+2. [http://dhs.kerala.gov.in/pdf2018/adv\_17082018.pdf](http://dhs.kerala.gov.in/pdf2018/adv_17082018.pdf)
+{% endhint %}
 
 {% hint style="danger" %}
 **Please do not use Sodium polyacrylate for cleaning flood water**  
@@ -23,33 +43,59 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="essential-medicines-to-be-kept-after-a-flood.md" %}
 
+{% page-ref page="major-health-risks-when-working-on-water-damaged-homes.md" %}
+
+{% page-ref page="note-for-cleaning-volunteers.md" %}
+
+{% page-ref page="mental-health.md" %}
+
 ## Waste Management
 
 {% page-ref page="food-and-paper-waste-management.md" %}
 
 {% page-ref page="what-should-be-discarded-recovered.md" %}
 
-## Safety  Management
+{% page-ref page="waste-management-after-natural-calamities.md" %}
 
-{% page-ref page="before-moving-back-in.md" %}
-
-{% page-ref page="what-should-be-discarded-recovered.md" %}
+## Comprehensive Clean-Up Guide
 
 {% page-ref page="let-us-go-back-home-safely.md" %}
 
-{% page-ref page="back-to-home-kit.md" %}
-
-{% page-ref page="cleaning-your-house.md" %}
-
 {% page-ref page="how-to-clean-floors.md" %}
-
-{% page-ref page="easy-hack-for-cleaning.md" %}
 
 {% page-ref page="how-to-clean-well.md" %}
 
 {% page-ref page="carpets-and-furniture.md" %}
 
+{% page-ref page="pre-work-inspection.md" %}
+
+{% page-ref page="before-work-begins.md" %}
+
+{% page-ref page="site-preparation.md" %}
+
+{% page-ref page="clean-out.md" %}
+
+{% page-ref page="gut-tear-out-procedure.md" %}
+
+{% page-ref page="pre-construction-cleaning-and-treatment.md" %}
+
+{% page-ref page="selective-tear-out-and-preparation-before-restoration.md" %}
+
+{% page-ref page="restore-possessions.md" %}
+
+## Safety  Management
+
+{% page-ref page="before-moving-back-in.md" %}
+
+{% page-ref page="back-to-home-kit.md" %}
+
+{% page-ref page="cleaning-your-house.md" %}
+
+{% page-ref page="easy-hack-for-cleaning.md" %}
+
 {% page-ref page="how-to-fix-your-fridge.md" %}
+
+{% page-ref page="how-to-dry-and-test-your-computer.md" %}
 
 {% page-ref page="a-10-point-guide-on-what-to-do-if-your-car-is-submerged-in-water.md" %}
 
@@ -57,7 +103,11 @@ description: The crowd sourced data hub for all after flood precautions
 
 {% page-ref page="building-strength-testing.md" %}
 
+{% page-ref page="ensure-building-safety.md" %}
+
 ## Videos
+
+{% page-ref page="cremating-dead-animals.md" %}
 
 {% page-ref page="how-to-prevent-yourself-from-diseases-after-a-flood.md" %}
 
@@ -97,9 +147,11 @@ description: The crowd sourced data hub for all after flood precautions
 ## Contribute to www.afterflood.in
 {% endhint %}
 
-1. Fork the [Github Repo](https://github.com/afterflood/afterflood.in)
-2. Add a new page and update `Readme.md & Summary.md`
-3. Send a PR with your Update
+1. Fork the GitHub repo [https://github.com/afterflood/afterflood.in](https://github.com/afterflood/afterflood.in)
+2. Create a new file with `.md` extension.
+3. Update the path to file in `README.md` \(The front page\) & `SUMMARY.md` \(for ordering in sidebar\)
+4. Use Markdown language for updating the script.
+5. Make a PR for merge.
 
 Or email us at `afterflood.in@gmail.com`
 
